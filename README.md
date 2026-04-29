@@ -112,3 +112,32 @@ The time allocated for this work is approximately 25 to 30 hours. The actual tim
 - Microsoft Responsible AI resources: https://www.microsoft.com/en-us/ai/responsible-ai
 - Microsoft Learn (AI fundamentals and developer content): https://learn.microsoft.com/training/
 - OWASP Top 10 (secure coding awareness): https://owasp.org/www-project-top-ten/
+
+## Team Collaboration on GitHub
+
+Use the following workflow to collaborate effectively in your team repository:
+
+1. The repository owner should create the team repository (or use a repository forked or cloned during the workshop). Prefer using one shared team repository created by one team member, and add all team members as collaborators.
+2. Each student creates a separate branch for their work instead of committing directly to the main branch.
+3. Make small, clear commits with meaningful commit messages.
+4. Open a pull request (PR) from your branch to main when your feature or fix is ready.
+5. At least one teammate reviews the PR before merging.
+6. Resolve comments, update the branch if needed, and merge only after checks and review are complete.
+7. Delete merged branches to keep the repository clean.
+8. Use GitHub Issues to plan tasks, assign ownership, and track progress.
+
+Suggested team practices:
+
+- Pull the latest changes from main before starting new work.
+- Keep PRs focused on one change at a time.
+- Discuss major design or feature changes in issues or PR comments.
+
+Helpful GitHub reading:
+
+- Adding collaborators to repositories: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/inviting-collaborators-to-a-personal-repository
+- About branches: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
+- About pull requests: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests
+- Reviewing proposed changes in a pull request: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request
+- About protected branches: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches
+- GitHub Issues quickstart: https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart
+
