@@ -2,6 +2,8 @@
 
 This repository contains instructions and supporting materials for the AI Workshop session in the Basics of Programming course.
 
+hello world 
+
 ## Purpose
 
 The goal of this workshop is to help students:
